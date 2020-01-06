@@ -1,0 +1,17 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="fileIcons" value="false" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="94f59f" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="-2a6b98b6:16ae3ada191:-8000" />
+    <option name="version" value="4.11.4" />
+  </component>
+</application>

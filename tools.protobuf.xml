@@ -1,0 +1,9 @@
+<application>
+  <component name="ProtobufSettings">
+    <option name="includePaths">
+      <list>
+        <option value="$USER_HOME$/netty/nettyp1/src/main/java/space/nyuki/e1" />
+      </list>
+    </option>
+  </component>
+</application>

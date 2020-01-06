@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>PrintWriter.write (java.io)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("write").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>RequestContext.setResponseBody (com.netflix.zuul.context)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setResponseBody").withParameters("java.lang.String").definedInClass("com.netflix.zuul.context.RequestContext"))]]></place>
+    </injection>
+  </component>
+</application>
